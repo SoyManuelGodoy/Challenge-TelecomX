@@ -1,7 +1,9 @@
 # Challenge-TelecomX
 Análisis de Evasión de Clientes
 
-Recopilar, procesar y analizar los datos, utilizando Python y sus principales bibliotecas para extraer información valiosa.
+La empresa enfrenta una alta tasa de cancelaciones y necesita comprender los factores que llevan a la pérdida de clientes.
+
+Tu desafío será recopilar, procesar y analizar los datos, utilizando Python y sus principales bibliotecas para extraer información valiosa.
 A partir de tu análisis, el equipo de Data Science podrá avanzar en modelos predictivos y desarrollar estrategias para reducir la evasión.
 
 Importar y manipular datos desde una API de manera eficiente.
